@@ -16,5 +16,5 @@ bower install
 To get start the presentation and to get live reload for each change made, run the following:
 
 ```bash
-gulp watch
+npm start
 ```
