@@ -1,4 +1,4 @@
-# generator-shower [![Build Status](https://secure.travis-ci.org/forrana/generator-shower.png?branch=master)](https://travis-ci.org/forrana/generator-shower-lite)
+# generator-shower [![Build Status](https://travis-ci.org/forrana/generator-shower-lite.svg?branch=master)](https://travis-ci.org/forrana/generator-shower-lite)
 This is a [Yeoman](http://yeoman.io) generator for the [Shower presentation engine](http://shwr.me)
 
 ## Getting Started
