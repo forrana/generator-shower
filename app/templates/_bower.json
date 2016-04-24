@@ -2,7 +2,8 @@
     "name": "package",
     "version": "0.0.0",
     "dependencies": {
-        "shower": "*"<% if (theme !== 'none'){ %>,
+        "shower": "*",
+	"shower-core": "*"<% if (theme !== 'none'){ %>,
         "<%= theme %>": "*"<% } %>
     }
 }
